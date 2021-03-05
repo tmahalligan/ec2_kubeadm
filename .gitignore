@@ -33,4 +33,5 @@ override.tf.json
 sshkey.pem
 kube.config
 
+.pre-commit-config.yaml
 
